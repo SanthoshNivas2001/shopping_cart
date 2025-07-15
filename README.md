@@ -1,0 +1,1 @@
+Developed a shopping-based mobile application with features including dynamic product listing with category-based filtering, real-time cart . Focused on scalable state handling and implemented clean architectural patterns to ensure maintainability.
